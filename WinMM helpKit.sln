@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinMM helpKit", "WinMM helpKit.vcxproj", "{45A265F2-3F56-4C17-A3CE-3CA2F29A8174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A265F2-3F56-4C17-A3CE-3CA2F29A8174}.Debug|x64.ActiveCfg = Debug|x64
+		{45A265F2-3F56-4C17-A3CE-3CA2F29A8174}.Debug|x64.Build.0 = Debug|x64
+		{45A265F2-3F56-4C17-A3CE-3CA2F29A8174}.Debug|x86.ActiveCfg = Debug|Win32
+		{45A265F2-3F56-4C17-A3CE-3CA2F29A8174}.Debug|x86.Build.0 = Debug|Win32
+		{45A265F2-3F56-4C17-A3CE-3CA2F29A8174}.Release|x64.ActiveCfg = Release|x64
+		{45A265F2-3F56-4C17-A3CE-3CA2F29A8174}.Release|x64.Build.0 = Release|x64
+		{45A265F2-3F56-4C17-A3CE-3CA2F29A8174}.Release|x86.ActiveCfg = Release|Win32
+		{45A265F2-3F56-4C17-A3CE-3CA2F29A8174}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A25EB68-8F49-4D86-B389-778A6259A416}
+	EndGlobalSection
+EndGlobal

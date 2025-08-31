@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project\\WinMM helpKit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45A265F2-3F56-4C17-A3CE-3CA2F29A8174}|WinMM helpKit.vcxproj|E:\\project\\WinMM helpKit\\WinMM helpKit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45A265F2-3F56-4C17-A3CE-3CA2F29A8174}|WinMM helpKit.vcxproj|solutionrelative:WinMM helpKit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinMM helpKit.cpp",
+              "DocumentMoniker": "E:\\project\\WinMM helpKit\\WinMM helpKit.cpp",
+              "RelativeDocumentMoniker": "WinMM helpKit.cpp",
+              "ToolTip": "E:\\project\\WinMM helpKit\\WinMM helpKit.cpp",
+              "RelativeToolTip": "WinMM helpKit.cpp",
+              "ViewState": "AgIAANcCAAAAAAAAAAAmwO8CAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-30T13:49:44.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
